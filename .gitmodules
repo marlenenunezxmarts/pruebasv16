@@ -1,0 +1,4 @@
+[submodule "xmarts/xma_mod_l10n_mx_edi"]
+	path = xmarts/xma_mod_l10n_mx_edi
+	url = git@github.com:xmarts/xma_mod_l10n_mx_edi.git
+	branch = 15.0
